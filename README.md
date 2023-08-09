@@ -1,7 +1,7 @@
 **Project Title: Automated Azure WebApp Deployment with CI/CD Pipelines**
 
 **Project Goals:**
-The goal of this project is to create an end-to-end automated deployment process for a web application using Azure DevOps. The process will involve setting up Continuous Integration and Continuous Deployment (CI/CD) pipelines that will automatically deploy the application through QA, Automation Testing, and Production stages. The project will utilize Azure WebApp for hosting the application, GitHub for version control, Maven for building the application, Azure Repos for code repository management, Selenium for automated testing, and Azure DevOps for managing  CI/CD pipelines.
+The goal of this project is to create an end-to-end automated deployment process for a web application using Azure DevOps. The process will involve setting up Continuous Integration and Continuous Deployment (CI/CD) pipelines that will automatically deploy the application through QA, Automation Testing, and Production stages. The project will utilize Azure WebApp for hosting the application, GitHub for version control, Maven for building the application, Azure Repos for code repository management, Selenium for automated testing, and Azure DevOps for managing the CI/CD pipelines.
 
 **Project Process and Details:**
 
